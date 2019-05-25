@@ -1,0 +1,35 @@
+body{
+    background-color: #f4d942;
+}
+
+header{
+    background-color:#bf42f4;
+}
+
+#main{
+    width: 66%;
+    float: left;
+  }
+
+#contact{
+    width: 33%;
+    float: left;
+}
+
+#me{
+    font-family: "Brush Script MT",cursive;
+    font-size: 22px;
+}
+
+#poem{
+    font-family: Papyrus,fantasy;
+    font-size: 13px;
+}
+
+.center{
+    text-align: center;
+}
+
+.underline{
+    text-decoration: underline;
+}
